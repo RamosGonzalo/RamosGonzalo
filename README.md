@@ -34,6 +34,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramosgonzalo&theme=tokyonight" alt="streak stats"/>
 </p>
 
+<p align=center>
+<img src="https://github.com/RamosGonzalo/RamosGonzalo/blob/main/Banner%20GitHub.gif" width="650">
+</p>
 <!---
 RamosGonzalo/RamosGonzalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
