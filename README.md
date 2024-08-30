@@ -34,8 +34,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramosgonzalo&theme=tokyonight" alt="streak stats"/>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=RamosGonzalo&label=Views&color=12&pretty=true" />
-</a> 
+  <img src="https://visitcount.itsvg.in/api?id=RamosGonzalo&label=Views&color=12&icon=5&pretty=true" />
+</a>
 
 ## 
 <p align=center>
