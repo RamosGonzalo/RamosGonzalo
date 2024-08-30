@@ -32,8 +32,11 @@
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=ramosgonzalo&show_icons=true&theme=tokyonight" alt="github stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramosgonzalo&theme=tokyonight" alt="streak stats"/>
-</p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=RamosGonzalo&label=Views&color=12&pretty=true" />
+</a> 
 
+## 
 <p align=center>
 <img src="https://github.com/RamosGonzalo/RamosGonzalo/blob/main/Banner%20GitHub.gif" width="650">
 </p>
