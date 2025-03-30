@@ -1,16 +1,27 @@
-<h1 align="center">👋 Hey! Welcome to my GitHub</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" style="filter: brightness(0.9);"> 
+  Hi, I'm Gonzalo Ramos
+</h1>
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Welcome" width="650">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50727b&center=true&width=435&lines=Coding+Fueled+by+☕;Software+Developer;Tech+Enthusiast;Computer+Engineering+Student" alt="Typing animation" />
+</p>
+
+---
 
 ### 🚀 About Me
 
 - 🎓 Student of **Computer Engineering** at **University of Buenos Aires (UBA)** and finishing my last year in the **University Degree in Programming** at **National Technological University (UTN), General Pacheco, Buenos Aires, Argentina**.
 - 💻 Passionate about software development, technology, and continuous learning.
 - 🔥 Currently learning **React.js, Next.js, Tailwind CSS, C#, and .NET**.
-- 🌍 My goal is to become a **Software Developer** and work for companies abroad.
+- 🌍 My goal is to become a **Great Software Developer** and work for companies abroad.
 - ☕ Firm believer that **"don't waste time because your coffee gets cold"** is key to success.
 - 📩 Contact me: **gonzaloramos.dev@gmail.com**
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -47,6 +58,8 @@
     <img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
