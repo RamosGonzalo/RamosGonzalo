@@ -7,7 +7,7 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Welcome" width="650">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50727b&center=true&width=435&lines=Coding+Fueled+by+☕;Software+Developer;Tech+Enthusiast!;Computer+Engineering+Student" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50727b&center=true&width=435&lines=Software+Developer;Tech+Enthusiast!;Computer+Engineering+Student" alt="Typing animation" /> 
 </p>
 
 ---
