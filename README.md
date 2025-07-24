@@ -6,47 +6,72 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Welcome" width="650">
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50727b&center=true&width=435&lines=Software+Developer;Tech+Enthusiast!;Computer+Engineering+Student" alt="Typing animation" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50727b&center=true&width=435&lines=Software+Developer;Co-founder+%26+CXO+at+KIAD;MERN+Stack+Specialist;Lifelong+Learner" alt="Typing animation" /> 
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Student of **Computer Engineering** at **University of Buenos Aires (UBA)** and finishing my last year in the **University Degree in Programming** at **National Technological University (UTN), General Pacheco, Buenos Aires, Argentina**.
-- 💻 Passionate about software development, technology, and continuous learning.
-- 🔥 Currently learning **React.js, Next.js, Tailwind CSS, C#, and .NET**.
-- 🌍 My goal is to become a **Great Software Developer** and work for companies abroad.
-- ☕ Firm believer that **"don't waste time because your coffee gets cold"** is key to success.
-- 📩 Contact me: **gonzaloramos.dev@gmail.com**
+- 💼 **Co-founder & CXO at [KIAD](https://github.com/kiad-dev)** — focused on client experience, project success and innovation in the software & AI space.
+- 👨‍💻 Full-stack developer specialized in the **MERN Stack** — MongoDB, Express.js, React.js & Node.js.
+- 🎓 Computer Engineering student at **UBA**, and completing a **Programming Degree** at **UTN (General Pacheco)**.
+- 🌱 Constantly improving my skills through courses, real-world projects, and collaborations with tech influencers.
+- 🧠 I believe in **grit**, adaptability, and in the power of technology to create meaningful impact.
+- ☕ “**Don't waste time because your coffee gets cold**” — my motto to stay focused and consistent.
+- 📩 Reach me at: **gonzaloramos.dev@gmail.com**
+
+---
+
+### 🧠 Currently Working On
+
+- 📌 **CRM Freelancer** — A custom mini CRM for freelancers, including task tracking, client management, and payment control.
+- 📈 **Finance Dashboard** — A simple but powerful dashboard for tracking expenses, income, and goals.
+- ✅ **Habit Tracker** — A clean and minimalistic habit tracker to build discipline and consistency.
+- 📚 Continuously learning through practical courses and live coding challenges with creators in the dev community.
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### 🔹 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### 🔹 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### 🔹 Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🔹 Others
+#### 🔹 Dev Tools & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### 🔹 Productivity & Organization
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+
+---
 
 ### 🌍 Find Me On
 
@@ -70,4 +95,4 @@
 
 ---
 
-✨ **Thanks for visiting my profile!** 🚀
+✨ **Thanks for visiting my profile! Let’s build something amazing.** 🚀
