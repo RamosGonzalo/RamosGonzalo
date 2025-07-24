@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 💼 **Co-founder & CXO at [KIAD](https://github.com/kiad-dev)** — focused on client experience, project success and innovation in the software & AI space.
+- 💼 **Co-founder & CXO at [KIAD](https://kiad.dev)** — focused on client experience, project success and innovation in the software & AI space.
 - 👨‍💻 Full-stack developer specialized in the **MERN Stack** — MongoDB, Express.js, React.js & Node.js.
 - 🎓 Computer Engineering student at **UBA**, and completing a **Programming Degree** at **UTN (General Pacheco)**.
 - 🌱 Constantly improving my skills through courses, real-world projects, and collaborations with tech influencers.
