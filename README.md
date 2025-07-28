@@ -90,9 +90,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramosgonzalo&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RamosGonzalo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RamosGonzalo&theme=tokyonight" alt="GitHub Stats"/>
 </p>
-
 
 ---
 
