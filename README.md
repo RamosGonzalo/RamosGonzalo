@@ -29,6 +29,7 @@
 
 - 📈 **Finance Dashboard** — A simple but powerful dashboard for tracking expenses, income, and goals.
 - ✅ **Habit Tracker** — A clean and minimalistic habit tracker to build discipline and consistency.
+- 🛒 **E-commerce Store** — A modern e-commerce platform with product filtering, shopping cart, and admin panel to manage inventory.
 - 📚 Continuously learning through practical courses and live coding challenges with creators in the dev community.
 
 ---
