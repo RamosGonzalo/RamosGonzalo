@@ -27,7 +27,6 @@
 
 ### 🧠 Currently Working On
 
-- 📌 **CRM Freelancer** — A custom mini CRM for freelancers, including task tracking, client management, and payment control.
 - 📈 **Finance Dashboard** — A simple but powerful dashboard for tracking expenses, income, and goals.
 - ✅ **Habit Tracker** — A clean and minimalistic habit tracker to build discipline and consistency.
 - 📚 Continuously learning through practical courses and live coding challenges with creators in the dev community.
