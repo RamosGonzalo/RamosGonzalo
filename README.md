@@ -30,7 +30,6 @@
 - 📈 **Finance Dashboard** — A simple but powerful dashboard for tracking expenses, income, and goals.
 - ✅ **Habit Tracker** — A clean and minimalistic habit tracker to build discipline and consistency.
 - 🛒 **E-commerce Store** — A modern e-commerce platform with product filtering, shopping cart, and admin panel to manage inventory.
-- ✍️ **Tech Blog** — A personal blog built with React, TailwindCSS and MDX where I write about web development, self-improvement, mindfulness, and my journey as a software developer.
 - 📚 Continuously learning through practical courses and live coding challenges with creators in the dev community.
 
 ---
