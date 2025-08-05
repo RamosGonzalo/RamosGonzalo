@@ -89,8 +89,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramosgonzalo&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=RamosGonzalo&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RamosGonzalo&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
