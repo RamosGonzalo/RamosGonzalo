@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i0.wp.com/media2.giphy.com/media/oqVsm9kaUm0ow/giphy.gif" alt="Welcome" width="650">
+  <img src="https://hotcorn-cdn.fra1.cdn.digitaloceanspaces.com/wp-content/uploads/sites/5/2018/04/18165145/Unknown-7.gif" alt="Welcome" width="650">
 </p>
 
 <p align="center">
