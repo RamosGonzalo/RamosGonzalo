@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Welcome" width="650">
+  <img src="https://i0.wp.com/media2.giphy.com/media/oqVsm9kaUm0ow/giphy.gif" alt="Welcome" width="650">
 </p>
 
 <p align="center">
