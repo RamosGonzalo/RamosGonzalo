@@ -77,11 +77,11 @@
 ### 🌍 Find Me On
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ramosgonzalo/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://gonzaloramos-portfolio.vercel.app/" target="_blank">
+  <a href="https://gonzaloramos.vercel.app/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://gonmadeit.medium.com/">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
   </a>
 </p>
 
