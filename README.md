@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" style="filter: brightness(0.9);"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasR4ia7z/giphy.gif" width="25" style="filter: brightness(0.9);">
   Hi, I'm Gonzalo Ramos
 </h1>
 
@@ -8,69 +8,128 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50727b&center=true&width=435&lines=Software+Developer;Co-founder+%26+CXO+at+KIAD;MERN+Stack+Specialist;Lifelong+Learner" alt="Typing animation" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50727b&center=true&width=500&lines=Backend+Developer;Python+%26+FastAPI;Full-Stack+Developer;Data+%26+Analytics+Enthusiast;Always+Learning" alt="Typing animation" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💼 **Co-founder & CXO at [KIAD](https://kiad.dev)** — focused on client experience, project success and innovation in the software & AI space.
-- 👨‍💻 Full-stack developer specialized in the **MERN Stack** — MongoDB, Express.js, React.js & Node.js.
-- 🎓 Computer Engineering student at **UBA**, and completing a **Programming Degree** at **UTN (General Pacheco)**.
-- 🌱 Constantly improving my skills through courses, real-world projects, and collaborations with tech influencers.
-- 🧠 I believe in **grit**, adaptability, and in the power of technology to create meaningful impact.
-- ☕ “**Don't waste time because your coffee gets cold**” — my motto to stay focused and consistent.
-- 📩 Reach me at: **gonzaloramos.dev@gmail.com**
+* 👨‍💻 **Backend-focused Software Developer** currently building my expertise with **Python, FastAPI, PostgreSQL and REST APIs**.
+* 📊 Open to opportunities as a **Backend Developer or Data Analyst**, as well as freelance work and collaborations on software projects.
+* 🎓 **Programming Technician** from **UTN (Universidad Tecnológica Nacional)**.
+* 🌐 I also have experience building full-stack applications using **TypeScript, React, Next.js and Node.js**.
+* 💡 I enjoy turning ideas into useful products and I'm currently exploring several projects of my own.
+* 📩 Reach me at: **[gonzaloramos.dev@gmail.com](mailto:gonzaloramos.dev@gmail.com)**
 
 ---
 
-### 🧠 Currently Working On
+### 🔭 Currently Exploring
 
-- 📈 **Finance Dashboard** — A simple but powerful dashboard for tracking expenses, income, and goals.
-- ✅ **Habit Tracker** — A clean and minimalistic habit tracker to build discipline and consistency.
-- 🛒 **E-commerce Store** — A modern e-commerce platform with product filtering, shopping cart, and admin panel to manage inventory.
-- 📚 Continuously learning through practical courses and live coding challenges with creators in the dev community.
+I'm currently working towards becoming a stronger **backend developer**, while keeping my full-stack and data skills active.
+
+My current roadmap:
+
+```text
+🐍 Python
+   ↓
+⚡ FastAPI
+   ↓
+🐘 PostgreSQL / SQL
+   ↓
+🔐 Authentication & Authorization
+   ↓
+🧪 Testing
+   ↓
+🐳 Docker
+   ↓
+📱 Swift / iOS Development
+```
+
+At the same time, I'm interested in **data analysis, automation and building products that solve real-world problems**.
+
+---
+
+### 💡 Projects I'm Exploring
+
+I enjoy coming up with product ideas and eventually turning them into real applications.
+
+#### 🌍 TravelPin
+
+A travel-oriented platform inspired by the way people discover places visually.
+
+The idea is to combine **visual discovery with useful travel information**, allowing users to discover places they love and learn more about them, while connecting that inspiration with the practical side of planning a trip.
+
+> 🚧 Concept currently being explored.
+
+#### ⚽ LINEUP
+
+A platform focused on making it easier to organize sports matches.
+
+The idea is to help people **find opponents, complete a team when players are missing, and organize games** across different sports.
+
+> 🚧 Concept currently being explored.
+
+More details about these projects will be shared as they evolve. 👀
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### 🔹 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 #### 🔹 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### 🔹 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-#### 🔹 Dev Tools & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### 🔹 Databases
 
-#### 🔹 Productivity & Organization
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=databricks\&logoColor=white)
 
+#### 🔹 Data & Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+#### 🔹 Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+
+* 🐍 Advanced **Python**
+* ⚡ **FastAPI** & backend architecture
+* 🐘 **PostgreSQL** & advanced SQL
+* 🔐 Authentication & authorization
+* 🧪 Backend testing
+* 🐳 Docker & containerization
+* 📊 Data analysis with Python
+* 📱 **Swift & iOS development** — future goal
 
 ---
 
@@ -83,16 +142,15 @@
   <a href="https://gonmadeit.medium.com/">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
   </a>
+  <a href="mailto:gonzaloramos.dev@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+✨ **Thanks for visiting my profile!**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamosGonzalo&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <i>Building, learning and turning ideas into reality. 🚀</i>
 </p>
-
----
-
-✨ **Thanks for visiting my profile! Let’s build something amazing.** 🚀
