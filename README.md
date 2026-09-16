@@ -50,30 +50,6 @@ At the same time, I'm interested in **data analysis, automation and building pro
 
 ---
 
-### 💡 Projects I'm Exploring
-
-I enjoy coming up with product ideas and eventually turning them into real applications.
-
-#### 🌍 TravelPin
-
-A travel-oriented platform inspired by the way people discover places visually.
-
-The idea is to combine **visual discovery with useful travel information**, allowing users to discover places they love and learn more about them, while connecting that inspiration with the practical side of planning a trip.
-
-> 🚧 Concept currently being explored.
-
-#### ⚽ LINEUP
-
-A platform focused on making it easier to organize sports matches.
-
-The idea is to help people **find opponents, complete a team when players are missing, and organize games** across different sports.
-
-> 🚧 Concept currently being explored.
-
-More details about these projects will be shared as they evolve. 👀
-
----
-
 ### 🛠️ Tech Stack
 
 #### 🔹 Backend
