@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasR4ia7z/giphy.gif" width="25" style="filter: brightness(0.9);">
-  Hi, I'm Gonzalo Ramos
+  Hi, I'm Gon
 </h1>
 
 <p align="center">
-  <img src="https://hotcorn-cdn.fra1.cdn.digitaloceanspaces.com/wp-content/uploads/sites/5/2018/04/18165145/Unknown-7.gif" alt="Welcome" width="650">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGozMTI0ODBjbmx6aDd1dDRpZ3U2dHlqb200aWh0MWpqYW9hcG5hayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JPfZ7lXNECPkXaAkF2/giphy.gif" alt="Welcome" width="650">
 </p>
 
 <p align="center">
