@@ -119,8 +119,4 @@ At the same time, I'm interested in **data analysis, automation and building pro
 
 ---
 
-✨ **Thanks for visiting my profile!**
-
-<p align="center">
-  <i>Building, learning and turning ideas into reality. 🚀</i>
-</p>
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ramosgonzalo&theme=dark&background=141321" alt="Gonzalo's Github Stats" /></p>
