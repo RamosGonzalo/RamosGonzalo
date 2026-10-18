@@ -41,8 +41,6 @@ My current roadmap:
 🧪 Testing
    ↓
 🐳 Docker
-   ↓
-📱 Swift / iOS Development
 ```
 
 At the same time, I'm interested in **data analysis, automation and building products that solve real-world problems**.
