@@ -94,6 +94,7 @@ At the same time, I'm interested in **data analysis, automation and building pro
 * 🐍 Advanced **Python**
 * ⚡ **FastAPI** & backend architecture
 * 🐘 **PostgreSQL** & advanced SQL
+* 📱 **React Native** — cross-platform mobile development
 * 🔐 Authentication & authorization
 * 🧪 Backend testing
 * 🐳 Docker & containerization
