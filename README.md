@@ -23,30 +23,6 @@
 
 ---
 
-### 🔭 Currently Exploring
-
-I'm currently working towards becoming a stronger **backend developer**, while keeping my full-stack and data skills active.
-
-My current roadmap:
-
-```text
-🐍 Python
-   ↓
-⚡ FastAPI
-   ↓
-🐘 PostgreSQL / SQL
-   ↓
-🔐 Authentication & Authorization
-   ↓
-🧪 Testing
-   ↓
-🐳 Docker
-```
-
-At the same time, I'm interested in **data analysis, automation and building products that solve real-world problems**.
-
----
-
 ### 🛠️ Tech Stack
 
 #### 🔹 Backend
